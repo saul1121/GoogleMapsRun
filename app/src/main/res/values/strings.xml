@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GoogleMapsRun</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">
+        locations services required to show current location
+    </string>
+
+    <string name="location_permission_denied">
+        Permissions were denied, enable on the systems settings again.
+    </string>
+    <string name="permission_required_toast">Location permissions are mandatory</string>
+
+    <string-array name="layers">
+        <item>normal</item>
+        <item>hybrid</item>
+        <item>satellite</item>
+        <item>terrain</item>
+    </string-array>
+
+</resources>
